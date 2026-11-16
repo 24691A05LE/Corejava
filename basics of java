@@ -59,3 +59,65 @@ next()               venu         string
 nextline()          hello java    string
 next(),charAt(0)       A          char
 nextBoolean()         true       boolean
+Operators:
+1. Arithmetic Operators
+| Operator | Name | Example | Result |
+|---|---|---|---|
+| + | Addition | 10 + 5 | 15 |
+| - | Subtraction | 10 - 5 | 5 |
+| * | Multiplication | 10 * 5 | 50 |
+| / | Division | 10 / 5 | 2 |
+| % | Modulus | 10 % 3 | 1 |
+2.unary poerators
+| Operator | Name | Example |
+|---|---|---|
+| + | Unary Plus | +a |
+| - | Unary Minus | -a |
+| ++ | Increment | a++ |
+| -- | Decrement | a-- |
+| ! | Logical NOT | !true |
+3.relational operators
+| Operator | Meaning | Example |
+|---|---|---|
+| == | Equal to | 10 == 10 |
+| != | Not equal to | 10 != 5 |
+| > | Greater than | 10 > 5 |
+| < | Less than | 5 < 10 |
+| >= | Greater than or equal | 10 >= 10 |
+| <= | Less than or equal | 5 <= 10 |
+4.logical operators
+| Operator | Name | Meaning |
+|---|---|---|
+| && | Logical AND | Both conditions must be true |
+| \|\| | Logical OR | At least one condition must be true |
+| ! | Logical NOT | Reverses the result |
+5.assignment operators
+| Operator | Example | Equivalent |
+|---|---|---|
+| = | a = 10 | a = 10 |
+| += | a += 5 | a = a + 5 |
+| -= | a -= 5 | a = a - 5 |
+| *= | a *= 5 | a = a * 5 |
+| /= | a /= 5 | a = a / 5 |
+| %= | a %= 5 | a = a % 5 |
+| &= | a &= 5 | a = a & 5 |
+| \|= | a \|= 5 | a = a \| 5 |
+| ^= | a ^= 5 | a = a ^ 5 |
+| <<= | a <<= 2 | a = a << 2 |
+| >>= | a >>= 2 | a = a >> 2 |
+| >>>= | a >>>= 2 | a = a >>> 2 |
+6.bitwise operators
+| Operator | Name |
+|---|---|
+| & | Bitwise AND |
+| \| | Bitwise OR |
+| ^ | Bitwise XOR |
+| ~ | Bitwise Complement |
+7.shift operators
+| Operator | Name |
+|---|---|
+| << | Left Shift |
+| >> | Signed Right Shift |
+| >>> | Unsigned Right Shift |
+8.ternary operator
+condition ? expression1 : expression2;
