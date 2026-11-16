@@ -8,4 +8,12 @@ why was java created?
 1992-star7 demo
 1995-renamed java
 1996-JDK 1.0 
+How Java evolved: 30 years of steady upgrades
+java 1.0 -> JVM, core libraries, applets - "Write Once,Run Anywhere"
+Java 5 -> Genarics, annotations, enums,enhanced for loop
+Java 8 -> Lambdas, Stream API, new date/time API
+Java 11 -> First i.T5 of the 6-month era, standard HTTP Client
+Java 17 -> Records,seales classes,text blocks,Spring Boot 3/4 baseline
+Java 21 -> Virtual threads, pattern matching for switch record patterns
+Java 25 -> Compact source files,scoped values,compact object headers
 
