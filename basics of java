@@ -16,4 +16,46 @@ Java 11 -> First i.T5 of the 6-month era, standard HTTP Client
 Java 17 -> Records,seales classes,text blocks,Spring Boot 3/4 baseline
 Java 21 -> Virtual threads, pattern matching for switch record patterns
 Java 25 -> Compact source files,scoped values,compact object headers
+Categories of Primitive Data Types
+- Integer: byte, short, int, long
+- Floating-point: float, double
+- Character: char
+- Boolean: boolean
 
+non - Primitive Data Types
+String
+Array
+Class
+object
+interface
+
+Rules for Declaring Variables in Java:
+1. Every variable must have a data type.
+2. A variable name must start with a letter, underscore (_), or dollar sign ($).
+3. A variable name cannot start with a digit.
+4. Variable names cannot contain spaces.
+5. Java keywords cannot be used as variable names.
+6. Variable names are case-sensitive.
+7. Special characters are not allowed except _ and $.
+8. A variable must be declared before it is used.
+9. Local variables must be initialized before use.
+10. Multiple variables of the same data type can be declared in one statement.
+
+Ways of Taking Input in Java
+In Java, we can take input from the user in different ways. The commonly used methods are:
+1. Scanner class
+2. BufferedReader class
+3. Console class
+4. Command-line arguments
+5. JOptionPane class
+
+method explanation:
+scanner method     example      return type
+nextInt()             25          return type
+nextLong()          9876543210L    long
+nextFloat()          85.5f          float
+nextDouble()         2500.75      double
+next()               venu         string
+nextline()          hello java    string
+next(),charAt(0)       A          char
+nextBoolean()         true       boolean
